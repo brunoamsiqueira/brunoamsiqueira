@@ -79,7 +79,7 @@ Utilizo minha formação analítica para identificar padrões de inconsistência
     title="Microsoft Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" 
 />
 <br/>
 <br/>
