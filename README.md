@@ -41,7 +41,6 @@ Utilizo minha formação analítica para identificar padrões de inconsistência
 ---
 
 ### 🤖 Linguagens e Tecnologias
-/>
 <img 
     align="left" 
     alt="PostgreSQL" 
