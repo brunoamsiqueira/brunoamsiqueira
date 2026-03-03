@@ -33,7 +33,7 @@ Utilizo minha formação analítica para identificar padrões de inconsistência
         <img 
             alt="GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-brunoarmoa@gmail.com-DB4437?style=for-the-badge&logo=read&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-brunoarmoa13@gmail.com-DB4437?style=for-the-badge&logo=read&logoColor=white"
         />
     </a>
 </p>
